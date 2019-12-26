@@ -56,35 +56,63 @@ GUI구현부터 DB운용까지 효과적으로 학습하며 설계할 수 있다
 
 <h6>나. UI 스토리보드</h6>
 <img src="https://github.com/w086286/TisIntraNet/blob/master/images/ui.png" width="90%">
+</pre></div>
 
 <hr>
 
-<h4>01. 프로젝트 결과</h4>
+<h4>03. 프로젝트 결과</h4>
+<pre><div>
 <h6>가. 로그인</h6>
 <img src="https://github.com/w086286/TisIntraNet/blob/master/images/01%20login.png" width="90%">
-공지사항(로그인 후 진입시 메인화면)
+사번과 비밀번호 입력후 로그인 버튼 클릭시 메인화면 진입
+- 관리자의 경우   : 공지사항 등록 및 수정, 삭제 권한 / 관리자 모드 진입 및 입사자 등록, 수정, 삭제 권한
+- 일반 사원의 경우: 공지사항 등록 및 수정, 삭제 / 관리자모드 진입 외 모든 권한
 
+<h6>공지사항</h6>
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/02%20notice_.png" width="90%">
+로그인 후 진입시 첫 메인 화면
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/03%20notice_write.png" width="90%">
+공지사항 글쓰기: 관리자에 한함
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/04%20notice_writeConfirm.png" width="90%">
+글쓰기 유효성 검사: 제목 및 본문글이 공백일 경우 에러 메세지 출력
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/05%20notice_write_result.png" width="90%">
+글쓰기 성공 결과
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/06%20notice_read.png" width="90%">
+공지사항 읽기
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/07%20notice_edit.png" width="90%">
+공지사항 읽기 화면 하단의 수정버튼 클릭시 수정 화면 전환: 관리자에 한함
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/08%20notice_del.png" width="90%">
+공지사항 읽기 화면 하단의 삭제버튼 클릭시 삭제: 관리자에 한함
 
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
+<h6>한 줄 게시판<h6>
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/09%20board_main.png" width="90%">
+좌측 메뉴 패널의 "한 줄 게시판" 라벨 클릭시 진입
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/16%20board_write.png" width="90%">
+상단 텍스트필드에 원글 내용 작성
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/17%20board_writeConfirm.png" width="90%">
+등록 버튼 클릭시 확인 메세지 박스 출력
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/18%20board_write_result.png" width="90%">
+원글 작성 결과
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/10%20board_reply_write.png" width="90%">
+댓글을 작성할 대상 원글 클릭 후 좌측 하단 답글 버튼 클릭, 댓글 작성
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/11%20board_reply_result.png" width="90%">
+댓글 작성 결과
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/14%20board_searchResult.png" width="90%">
+게시글 검색 결과
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/12%20board_del.png" width="90%">
+삭제 대상 게시글 클릭 후 게시글 삭제 버튼 클릭시 확인 메세지 박스 출력
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/13%20board_del_result.png" width="90%">
+삭제 결과: 원글 이하의 댓글까지 연쇄적으로 삭제 처리
+            
+<h6>관리자 모드</h6>
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/19%20admin.png" width="90%">
+좌측 메뉴 패널의 "관리자 모드" 라벨 클릭시 진입: 관리자에 한하여 접근 가능
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/20%20admin_reg.png" width="90%">
+중앙 하단의 추가 버튼 클릭시 입사자 등록
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/21%20admin_edit.png" width="90%">
+중앙 하단의 변경 버튼 클릭시 기존 사원 정보 수정
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/22%20admin_del.png" width="90%">
+중앙 하단의 삭제 버튼 클릭시 기존 사원 정보 삭제
 <img src="" width="90%">
 <img src="" width="90%">
 <img src="" width="90%">
