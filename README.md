@@ -61,6 +61,8 @@ GUI구현부터 DB운용까지 효과적으로 학습하며 설계할 수 있다
 로그인
 <img src="https://github.com/w086286/TisIntraNet/blob/master/images/01%20login.png" width="90%">
 공지사항(로그인 후 진입시 메인화면)
+
+
 <img src="" width="90%">
 <img src="" width="90%">
 <img src="" width="90%">
