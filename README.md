@@ -57,8 +57,10 @@ GUI구현부터 DB운용까지 효과적으로 학습하며 설계할 수 있다
 <h6>나. UI 스토리보드</h6>
 <img src="https://github.com/w086286/TisIntraNet/blob/master/images/ui.png" width="90%">
 
-<h6>다. 시연</h6>
-로그인
+<hr>
+
+<h4>01. 프로젝트 결과</h4>
+<h6>가. 로그인</h6>
 <img src="https://github.com/w086286/TisIntraNet/blob/master/images/01%20login.png" width="90%">
 공지사항(로그인 후 진입시 메인화면)
 
