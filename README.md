@@ -113,23 +113,19 @@ GUI구현부터 DB운용까지 효과적으로 학습하며 설계할 수 있다
 중앙 하단의 변경 버튼 클릭시 기존 사원 정보 수정
 <img src="https://github.com/w086286/TisIntraNet/blob/master/images/22%20admin_del.png" width="90%">
 중앙 하단의 삭제 버튼 클릭시 기존 사원 정보 삭제
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
-<img src="" width="90%">
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/23%20msg.png" width="90%">
+우측 상단의 쪽지함 버튼 클릭시 개인쪽지함이 열림
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/24%20msg_read.png" width="90%">
+쪽지를 선택하고 내용보기 버튼 클릭시 쪽지 읽기창
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/25%20msg_sendTab.png" width="90%">
+보낸쪽지함 탭을 누르면 보낸쪽지함 창으로 전환
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/26%20msg_write.png" width="90%">
+쪽지보내기 버튼을 누르면 쪽지보내기 창으로 천환
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/27%20msg_write_result.png" width="90%">
+답장 버튼 누르면 쪽지 전송
+<img src="https://github.com/w086286/TisIntraNet/blob/master/images/28%20logout.png" width="90%">
+우측 상단의 로그아웃 버튼이나 윈도우 창끄기 버튼을 누를시 로그아웃 확인
+
 </pre></div>
+
+이상입니다
